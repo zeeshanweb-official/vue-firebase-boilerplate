@@ -1,6 +1,9 @@
-<template lang="pug">
-#Home
-  h1 hello world
+<template>
+<div id="Home">
+<h1>
+hello world
+</h1>
+</div> 
 </template>
 
 <script>
